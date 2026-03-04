@@ -47,7 +47,6 @@ I am building hands-on projects to apply theoretical logic to real-world enginee
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | [**Snake Water Gun**](https://github.com/andreyas-dev/snake-water-gun-cli) | Python CLI logic game built to practice control flow, loop architecture, and algorithmic thinking. | Completed |
-| **AI-Enabled Patient Monitoring Robot** | Final Year Project (FYP) focusing on integrating AI algorithms with physical robotic assistance and sensor monitoring. | Planned |
 
 > *Note: New projects and hardware integrations will be added as I progress along the roadmap.*
 
